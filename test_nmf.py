@@ -1,5 +1,6 @@
 ## Importing required libraries
 ## need the master developing branch of scikit-learn
+## and pull request: https://github.com/scikit-learn/scikit- learn/pull/8474
 import sqlite3
 import pandas as pd
 import numpy as np
